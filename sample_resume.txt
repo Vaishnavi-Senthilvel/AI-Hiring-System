@@ -1,0 +1,50 @@
+JOHN DOE
+Email: john.doe@email.com | Phone: (555) 123-4567
+LinkedIn: linkedin.com/in/johndoe
+
+PROFESSIONAL SUMMARY
+Experienced Senior Software Engineer with 5 years of professional experience developing scalable web applications and backend systems. Skilled in Python, JavaScript, React, and AWS cloud technologies. Proven track record of delivering high-quality software solutions.
+
+TECHNICAL SKILLS
+Programming Languages: Python, JavaScript, Java, C++, SQL
+Web Technologies: HTML, CSS, React, Node.js, Express, Django, FastAPI
+Databases: MySQL, PostgreSQL, MongoDB, Redis, Firebase
+Cloud & DevOps: AWS, Docker, Kubernetes, Jenkins, Git, GitHub, GitLab
+Tools & Frameworks: Git, GitHub, Jira, Postman, Swagger, VS Code, IntelliJ IDEA
+Soft Skills: Leadership, Team Collaboration, Problem Solving, Project Management, Agile, Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Senior Software Engineer
+Tech Company Inc., San Francisco, CA | January 2021 - Present (3+ years)
+• Architected and implemented microservices using Python and FastAPI, reducing API response time by 40%
+• Led a team of 5 junior developers in building scalable web applications using React and Node.js
+• Designed and deployed AWS infrastructure using Docker and Kubernetes, improving deployment efficiency
+• Developed RESTful APIs with comprehensive documentation using Swagger/OpenAPI
+• Implemented CI/CD pipelines using Jenkins and GitHub Actions
+
+Software Engineer II
+Web Solutions Ltd., New York, NY | June 2019 - December 2020 (1.5 years)
+• Developed full-stack web applications using React, Node.js, and PostgreSQL
+• Optimized database queries reducing query time by 30%
+• Implemented automated testing with Jest and Python unittest frameworks
+
+Software Engineer
+StartUp Tech, Seattle, WA | July 2018 - May 2019 (1 year)
+• Developed backend services using Python and Django
+• Created responsive web interfaces with HTML, CSS, and JavaScript
+
+EDUCATION
+
+Bachelor of Technology (B.Tech) in Computer Science and Engineering
+State University, 2018
+GPA: 3.8/4.0
+
+CERTIFICATIONS & ACHIEVEMENTS
+• AWS Certified Solutions Architect (2022)
+• Scrum Master Certified (2021)
+• Published technical articles on Medium about Machine Learning and Web Development
+• Contributed to open-source projects on GitHub
+
+LANGUAGES
+English (Native), Spanish (Conversational)
