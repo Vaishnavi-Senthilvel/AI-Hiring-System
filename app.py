@@ -10,6 +10,11 @@ import pandas as pd
 import numpy as np
 import sys
 import os
+import nltk
+
+nltk.download('punkt')
+nltk.download('stopwords')
+nltk.download('wordnet')
 from pathlib import Path
 from io import BytesIO
 
