@@ -5,3 +5,4 @@ joblib
 PyPDF2
 nltk
 matplotlib
+seaborn
