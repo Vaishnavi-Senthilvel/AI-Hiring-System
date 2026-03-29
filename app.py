@@ -11,10 +11,21 @@ import numpy as np
 import sys
 import os
 import nltk
+import nltk
 
-nltk.download('punkt')
-nltk.download('stopwords')
-nltk.download('wordnet')
+resources = [
+    ('tokenizers/punkt', 'punkt'),
+    ('tokenizers/punkt_tab', 'punkt_tab'),
+    ('corpora/stopwords', 'stopwords'),
+    ('corpora/wordnet', 'wordnet'),
+    ('corpora/omw-1.4', 'omw-1.4')
+]
+
+for path, name in resources:
+    try:
+        nltk.data.find(path)
+    except LookupError:
+        nltk.download(name)
 from pathlib import Path
 from io import BytesIO
 
